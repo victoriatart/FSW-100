@@ -1,0 +1,18 @@
+header {
+    color: blue;
+}
+h2, h3 {
+    color:palegreen;
+}
+img {
+    max-width: 500px;
+    max-height: 600px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+
+article {
+     color: hotpink;
+     font-family: Helvetica;
+}
