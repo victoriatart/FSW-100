@@ -1,0 +1,28 @@
+.header1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#MainTitle {
+    color: darkgreen;
+    font-style: bold;
+}
+.body {
+    padding: 10px;
+    font-size: 20px;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.linktitle {
+    text-transform: uppercase;
+}
+img {
+    padding: 10px;
+    margin: 20px;
+    float: left;
+    height: 350px;
+    width: 350x;
+}

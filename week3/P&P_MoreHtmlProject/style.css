@@ -1,12 +1,38 @@
-header {
-    color: blue;
+.myheader {
+    padding: 10px;
+    background: blue;
+    text-align: center;
+    font-size: 20px;
+    color: white
+}
+h1 {
+    color:wheat
+}
+#MyTable{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-collapse: collapse;
+    width: 75%;
+}
+.topnav{
+    padding: 10px;
+    background: coral;
+    font-size: 15px;
+    text-align: center;
+    max-width: 100%;
 }
 h2, h3 {
-    color:palegreen;
+    color:palevioletred;
 }
 img {
     max-width: 500px;
     max-height: 600px;
+    float: left;
+    display: inline-block;
+}
+p {
+    display: block;
+    color:black;
+    
 }
 table, th, td {
     border: 1px solid black;
