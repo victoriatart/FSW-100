@@ -1,0 +1,58 @@
+body {
+    background-color: peachpuff;
+    font-family: 'Comfortaa', cursive;
+}
+header {
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    font-size: 50px;
+    
+}
+.navtop {
+    margin: 5px;
+    padding: 15px;
+    background-color: cornsilk;
+    color:rosybrown;
+    font-size: 30px;
+    text-align: center;
+    position: fixed;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+  }
+li {
+    display: inline;
+    border-right: 1px solid rosybrown;
+    padding: 10px;
+    font-family: 'Comfortaa', cursive;
+}
+.post1 {
+    padding: 15px;
+    margin: 10px;
+    display: inline-block;
+    background-color: olivedrab;
+}
+img {
+    float:left;
+    padding: 20px;
+    margin: 30px;
+}
+.post2 {
+    padding: 15px;
+    margin: 10px;
+    display: inline-block;
+    background-color: olivedrab;
+}
+.post3 {
+    padding: 15px;
+    margin: 10px;
+    display: inline-block;
+    background-color: olivedrab;
+}
+p {
+    font-size: 20px;
+}
